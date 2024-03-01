@@ -37,7 +37,7 @@ touch .env
 python3 -m virtualenv botenv
 
 # activate the virtual environment
-source env/bin/activate
+source botenv/bin/activate
 
 # install and setup requirements
 pip install -e .
