@@ -5,3 +5,4 @@ env
 *.bin
 notebooks
 logs
+*.egg-info
